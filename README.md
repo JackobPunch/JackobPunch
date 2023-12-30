@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackobPunch and I'm an Electrical Engineering student at AGH University 🟩⬛🟥
+- 👋 Hi, I'm an Electrical Engineering student at AGH University 🟩⬛🟥
 - 👀 My career aspirations center around embedded systems
 and while I have a particular interest in the automotive sector 🚗 <br>
 I'm open to exploring various opportunities within the field of electrical engineering ⚡
