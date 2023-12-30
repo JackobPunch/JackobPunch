@@ -2,7 +2,7 @@
 - 👀 My career aspirations center around embedded systems
 and while I have a particular interest in the automotive sector 🚗 <br>
 I'm open to exploring various opportunities within the field of electrical engineering ⚡
-- I am currently working on a project in which my aim is to generate signals received by a device that measures the weight of vehicles 🚛
+- I am currently working on a project in which my aim is to generate signals <br> received by a device that measures the weight of vehicles 🚛
 - 💞️ I’m looking to collaborate on any project related to the areas mentioned above
 - 📫 Feel free to reach me out by email jakubcios99@gmail.com or on LinkedIn https://www.linkedin.com/in/jakub-cios-b4b929266/
 
