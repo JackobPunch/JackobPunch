@@ -1,4 +1,4 @@
-- 👋 Hi, I am a third year student of electrical engineering at AGH University of Science and Technologyy 🟩⬛🟥
+- 👋 Hi, I am a third year student of electrical engineering at AGH University of Science and Technology 🟩⬛🟥
 - 👀 My career aspirations center around embedded systems
 and while I have a particular interest in the automotive sector 🚗 <br>
 I'm open to exploring various opportunities within the field of electrical engineering ⚡
