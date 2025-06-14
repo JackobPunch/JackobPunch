@@ -1,5 +1,5 @@
 👋 Hi, I'm Jakub Cios  
-🎓 I'm a 4th-year Electrical Engineering student at AGH University of Science and Technology in Kraków.  
+🎓 I'm a 4th-year Electrical Engineering student at AGH University of Science and Technology in Cracow.  
 🛠️ My main focus is on embedded systems, microcontroller programming, and IoT applications.   
 🔬 I'm actively involved in science clubs and have participated in national research projects.  
 💡 I have hands-on experience with STM32, ESP32, C/C++, FreeRTOS, signal processing, and electronics design.  
