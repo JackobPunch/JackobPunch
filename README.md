@@ -1,13 +1,8 @@
 👋 Hi, I'm Jakub Cios  
-🎓 I'm a 4th-year Electrical Engineering student at AGH University of Science and Technology in Cracow.  
-🛠️ My main focus is on embedded systems, microcontroller programming, and IoT applications.   
-🔬 I'm actively involved in science clubs and have participated in national research projects.  
-💡 I have hands-on experience with STM32, ESP32, C/C++, FreeRTOS, signal processing, and electronics design.  
+🎓 Electronics Engineer — AGH University of Science and Technology, Kraków  
+💼 At Valeo — automated test systems for automotive lighting drivers (Python, CANoe, Modbus TCP)  
+🛠️ Hands-on with STM32, ESP32, C/C++, Python, FreeRTOS, Modbus RTU, and electronics design  
+🔬 Contributed to KN Integra science club — built arena hardware for ROBOCOMP 2025  
+🚀 Expanding into Python test automation and Linux  
 
-💼 I'm currently looking for collaboration and job opportunities in the fields of embedded systems, IoT, and automation.  
-📬 You can reach me at jakubcios99@gmail.com or on [LinkedIn](https://www.linkedin.com/in/jakub-cios-b4b929266/)
-
-<!---
-JackobPunch/JackobPunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 jakubcios99@gmail.com · [LinkedIn](https://www.linkedin.com/in/jakub-cios-b4b929266/)
